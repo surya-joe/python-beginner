@@ -1,0 +1,3 @@
+Hello steve 
+successfully learned file manipulation.
+Writting a New line1
